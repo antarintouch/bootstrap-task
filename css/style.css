@@ -1,0 +1,16 @@
+.bg-halka{
+
+    background-color:rgb(26, 230, 179);
+}
+.old-price del {
+    color: red;
+}
+.bg-nav{
+background-color: hwb(170 20% 29%);
+padding: 20px;
+}
+.ftimg img{
+padding: 3px;
+border-radius: 10px;
+
+}
